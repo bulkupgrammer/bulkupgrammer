@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bulkupgrammer&show_icons=true&theme=cobalt)
+![bulkupgrammer's github stats](https://github-readme-stats.vercel.app/api?username=bulkupgrammer&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulkupgrammer&layout=compact&theme=cobalt)
+![bulkupgrammer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulkupgrammer&layout=compact&theme=cobalt)
