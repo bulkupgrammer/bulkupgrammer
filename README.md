@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ![bulkupgrammer's github stats](https://github-readme-stats.vercel.app/api?username=bulkupgrammer&theme=cobalt)
-![bulkupgrammer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulkupgramme&theme=cobalt)
+![bulkupgrammer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulkupgrammer&theme=cobalt)
